@@ -26,6 +26,7 @@ modules:
       - starship
       - cosmic-desktop
       - zsh
+      - anonymouspro-nerd-fonts
     remove:
       # example: removing firefox (in favor of the flatpak)
       # "firefox" is the main package, "firefox-langpacks" is a dependency
