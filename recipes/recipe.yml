@@ -21,6 +21,7 @@ modules:
     repos:
       - https://copr.fedorainfracloud.org/coprs/atim/starship/repo/fedora-%OS_VERSION%/atim-starship-fedora-%OS_VERSION%.repo
       - https://copr.fedorainfracloud.org/coprs/ryanabx/cosmic-epoch/repo/fedora-42/ryanabx-cosmic-epoch-fedora-42.repo
+      - https://raw.githubusercontent.com/terrapkg/subatomic-repos/refs/heads/main/terra.repo
     install:
       - micro
       - starship
